@@ -3,7 +3,7 @@
 A progressive web app with the ability to work offline and a serverless backend
 developed using a TDD technique.
 
-## Test-Driven Development 
+## Test Cases
 
 ### **User Stories**
 
